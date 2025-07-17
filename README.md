@@ -20,7 +20,7 @@
 | 0713 | 双指针基础 | [盛最多水的容器](https://leetcode.cn/problems/container-with-most-water/description/) | [点击跳转](https://github.com/coder-random/PracticeSharing/blob/master/2025%E6%9A%91%E5%81%87%E6%AF%8F%E6%97%A5%E5%88%86%E4%BA%AB/250713%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8%EF%BC%88%E9%A2%98%E8%A7%A3%EF%BC%89.md) |
 | 0714 | 双指针基础 | [删除有序数组中的重复项 II](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/description/) | [点击跳转](https://github.com/coder-random/PracticeSharing/blob/master/2025%E6%9A%91%E5%81%87%E6%AF%8F%E6%97%A5%E5%88%86%E4%BA%AB/250714%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9%20II%EF%BC%88%E9%A2%98%E8%A7%A3%EF%BC%89.md) |
 | 0715 | 双指针基础 | [反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string/description/) | [点击跳转](https://github.com/coder-random/PracticeSharing/blob/master/2025%E6%9A%91%E5%81%87%E6%AF%8F%E6%97%A5%E5%88%86%E4%BA%AB/250715%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%EF%BC%88%E9%A2%98%E8%A7%A3%EF%BC%89.md) |
-| 0716 | 双指针提升 | [接雨水](https://leetcode.cn/problems/trapping-rain-water/description/) | [点击跳转](https://coder-random.github.io/2025/07/16/LeetCode%20-%2042.%20接雨水（题解）/) |
+| 0716 | 双指针提升 | [接雨水](https://leetcode.cn/problems/trapping-rain-water/description/) | [点击跳转](https://coder-random.github.io/2025/07/16/LeetCode-42.%20接雨水/) |
 | 0717 | 双指针提升 | [等差三元组的数目（做到O(n)）](https://leetcode.cn/problems/number-of-arithmetic-triplets/description/) | [点击跳转](https://coder-random.github.io/2025/07/17/LeetCode-2367.%20等差三元组的数目/) |
 
 
