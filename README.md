@@ -23,6 +23,7 @@
 | 0716 | 双指针提升 | [接雨水](https://leetcode.cn/problems/trapping-rain-water/description/) | [点击跳转](https://coder-random.github.io/2025/07/16/LeetCode-42.%20接雨水/) |
 | 0717 | 双指针提升 | [等差三元组的数目（做到O(n)）](https://leetcode.cn/problems/number-of-arithmetic-triplets/description/) | [点击跳转](https://coder-random.github.io/2025/07/17/LeetCode-2367.%20等差三元组的数目/) |
 | 0718 | 排序算法   | [排序数组](https://leetcode.cn/problems/sort-an-array/)      | [点击跳转](https://coder-random.github.io/2025/07/18/LeetCode/LeetCode-912.%20%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84/) |
+| 0719 | 链表基础   | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) |                                                              |
 
 
 
