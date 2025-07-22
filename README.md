@@ -24,9 +24,9 @@
 | 0717 | 双指针提升 | [等差三元组的数目（做到O(n)）](https://leetcode.cn/problems/number-of-arithmetic-triplets/description/) | [点击跳转](https://coder-random.github.io/2025/07/17/LeetCode-2367.%20等差三元组的数目/) |
 | 0718 | 排序算法   | [排序数组](https://leetcode.cn/problems/sort-an-array/)      | [点击跳转](https://coder-random.github.io/2025/07/18/LeetCode/LeetCode-912.%20%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84/) |
 | 0719 | 链表基础   | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | [点击跳转](https://coder-random.github.io/2025/07/19/LeetCode/LeetCode-21%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8/) |
-| 0720 | 链表基础   | [两数相加](https://leetcode.cn/problems/add-two-numbers/)    |                                                              |
-| 0721 | 链表基础   | [分隔链表](https://leetcode.cn/problems/partition-list/)     |                                                              |
-| 0722 | 查找算法   | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) |                                                              |
+| 0720 | 链表基础   | [两数相加](https://leetcode.cn/problems/add-two-numbers/)    | [点击跳转](https://coder-random.github.io/2025/07/19/LeetCode/LeetCode-2两数相加/) |
+| 0721 | 链表基础   | [分隔链表](https://leetcode.cn/problems/partition-list/)     | [点击跳转](https://coder-random.github.io/2025/07/19/LeetCode/LeetCode-86分隔链表/) |
+| 0722 | 查找算法   | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | [点击跳转](https://coder-random.github.io/2025/07/19/LeetCode/LeetCode-34在排序数组中查找元素的第一个和最后一个位置/) |
 
 
 ## 反馈与建议
