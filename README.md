@@ -27,6 +27,7 @@
 | 0720 | 链表基础   | [两数相加](https://leetcode.cn/problems/add-two-numbers/)    | [点击跳转](https://coder-random.github.io/2025/07/20/LeetCode/LeetCode-2两数相加/) |
 | 0721 | 链表基础   | [分隔链表](https://leetcode.cn/problems/partition-list/)     | [点击跳转](https://coder-random.github.io/2025/07/21/LeetCode/LeetCode-86分隔链表/) |
 | 0722 | 查找算法   | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | [点击跳转](https://coder-random.github.io/2025/07/22/LeetCode/LeetCode-34在排序数组中查找元素的第一个和最后一个位置/) |
+| 0723 | 查找算法   | [寻找比目标字母大的最小字母](https://leetcode.cn/problems/find-smallest-letter-greater-than-target/) |                                                              |
 
 
 ## 反馈与建议
