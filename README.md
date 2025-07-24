@@ -22,12 +22,13 @@
 | 0715 | 双指针基础 | [反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string/description/) | [点击跳转](https://github.com/coder-random/PracticeSharing/blob/master/2025%E6%9A%91%E5%81%87%E6%AF%8F%E6%97%A5%E5%88%86%E4%BA%AB/250715%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%EF%BC%88%E9%A2%98%E8%A7%A3%EF%BC%89.md) |
 | 0716 | 双指针提升 | [接雨水](https://leetcode.cn/problems/trapping-rain-water/description/) | [点击跳转](https://coder-random.github.io/2025/07/16/LeetCode-42.%20接雨水/) |
 | 0717 | 双指针提升 | [等差三元组的数目（做到O(n)）](https://leetcode.cn/problems/number-of-arithmetic-triplets/description/) | [点击跳转](https://coder-random.github.io/2025/07/17/LeetCode-2367.%20等差三元组的数目/) |
-| 0718 | 排序算法   | [排序数组](https://leetcode.cn/problems/sort-an-array/)      | [点击跳转](https://coder-random.github.io/2025/07/18/LeetCode/LeetCode-912.%20%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84/) |
+| 0718 | 排序算法   | [排序数组（快速排序）](https://leetcode.cn/problems/sort-an-array/) | [点击跳转](https://coder-random.github.io/2025/07/18/LeetCode/LeetCode-912.%20%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84/) |
 | 0719 | 链表基础   | [合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/) | [点击跳转](https://coder-random.github.io/2025/07/19/LeetCode/LeetCode-21%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8/) |
 | 0720 | 链表基础   | [两数相加](https://leetcode.cn/problems/add-two-numbers/)    | [点击跳转](https://coder-random.github.io/2025/07/20/LeetCode/LeetCode-2两数相加/) |
 | 0721 | 链表基础   | [分隔链表](https://leetcode.cn/problems/partition-list/)     | [点击跳转](https://coder-random.github.io/2025/07/21/LeetCode/LeetCode-86分隔链表/) |
 | 0722 | 查找算法   | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | [点击跳转](https://coder-random.github.io/2025/07/22/LeetCode/LeetCode-34在排序数组中查找元素的第一个和最后一个位置/) |
 | 0723 | 查找算法   | [寻找比目标字母大的最小字母](https://leetcode.cn/problems/find-smallest-letter-greater-than-target/) | [点击跳转](https://coder-random.github.io/2025/07/23/LeetCode/LeetCode-744寻找比目标字母大的最小字母/) |
+| 0724 | 排序算法   | [排序数组（归并排序）](https://leetcode.cn/problems/sort-an-array/) |                                                              |
 
 
 ## 反馈与建议
