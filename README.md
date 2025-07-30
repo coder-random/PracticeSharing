@@ -32,7 +32,11 @@
 | 0725 | 排序算法   | [排序数组（堆排序）](https://leetcode.cn/problems/sort-an-array/) | 后续总结发布                                                 |
 | 0726 | 排序算法   | [排序数组（基数排序）](https://leetcode.cn/problems/sort-an-array/) | 后续总结发布                                                 |
 | 0727 | 选择算法   | [数组中的第K个最大元素（快速选择）](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | 后续总结发布                                                 |
-| 0728 | 选择算法   | [数组中的第K个最大元素（堆选择法）](https://leetcode.cn/problems/kth-largest-element-in-an-array/) |                                                              |
+| 0728 | 选择算法   | [数组中的第K个最大元素（堆选择法）](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | 后续总结发布                                                 |
+| 0728 | 位运算     | [只出现一次的数字](https://leetcode.cn/problems/single-number/) | 后续总结发布                                                 |
+| 0729 | 位运算     | [只出现一次的数字 II](https://leetcode.cn/problems/single-number-ii/) | 后续总结发布                                                 |
+| 0730 | 位运算     | [只出现一次的数字 III](https://leetcode.cn/problems/single-number-iii/) | 后续总结发布                                                 |
+| 0731 | 位运算     | [丢失的数字](https://leetcode.cn/problems/missing-number/)   |                                                              |
 
 
 ## 反馈与建议
